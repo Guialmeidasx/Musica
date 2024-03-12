@@ -1,4 +1,7 @@
-﻿    Console.WriteLine ("Todos os dias quando acordo");
+        Console.ForegroundColor = ConsoleColor.DarkBlue;
+        Console.WriteLine("Tempo Perdido");
+        Console.ResetColor();
+    Console.WriteLine ("Todos os dias quando acordo");
     Console.WriteLine ("Não tenho mais");
     Console.WriteLine ("O tempo que passou");
     Console.WriteLine ("Mas tenho muito tempo");
