@@ -1,4 +1,4 @@
-        Console.ForegroundColor = ConsoleColor.DarkBlue;
+ Console.ForegroundColor = ConsoleColor.DarkBlue;
         Console.WriteLine("Tempo Perdido");
         Console.ResetColor();
     Console.WriteLine ("Todos os dias quando acordo");
@@ -14,13 +14,14 @@
     Console.WriteLine ("Sempre em frente");
     Console.WriteLine ("Não temos tempo a perder");
 
+     Console.ForegroundColor = ConsoleColor.DarkBlue;
     Console.WriteLine ("Nosso suor sagrado");
     Console.WriteLine ("É bem mais belo");
     Console.WriteLine ("Que esse sangue amargo");
     Console.WriteLine ("E tão sério");
     Console.WriteLine ("E selvagem! Selvagem!");
     Console.WriteLine ("Selvagem!");
-
+      Console.ResetColor();
     Console.WriteLine ("Veja o sol");
     Console.WriteLine ("Dessa manhã tão cinza");
     Console.WriteLine ("A tempestade que chega");
@@ -46,3 +47,4 @@
     Console.WriteLine ("Somos tão jovens");
 
     Console.WriteLine ("Tão jovens! Tão jovens!");
+
